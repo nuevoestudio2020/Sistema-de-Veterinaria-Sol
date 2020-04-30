@@ -1,0 +1,368 @@
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.Form1.resources
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\obj\Debug\Login.pdb
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\casto 26\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Bienvenida.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoVacunacion.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Cliente.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Clientes.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Ficha.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fondo.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.inicio.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Productos.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Stock.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Vencimientos.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\RdlCompile.cache
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\RdlCompile.compiled
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Report1.rdlc
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\CircularProgressBar.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\WinFormAnimation.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\stdole.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.xml
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fichas.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoFicha.resources
+C:\Users\Casto 26\Documents\App Veterrinaria\Projects\Login\Login\bin\Debug\veterinaria.db
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\veterinaria.db
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Report1.rdlc
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe.config
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.pdb
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\CircularProgressBar.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\WinFormAnimation.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EnvDTE.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\stdole.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.MSXML.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.xml
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.xml
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll.config
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Bienvenida.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoFicha.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoVacunacion.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Cliente.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Clientes.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Ficha.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fichas.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fondo.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.inicio.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Form1.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Productos.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Stock.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Vencimientos.resources
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\RdlCompile.cache
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\RdlCompile.compiled
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.exe
+D:\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\veterinaria.db
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Report1.rdlc
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\CircularProgressBar.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\WinFormAnimation.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EnvDTE.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\stdole.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Bienvenida.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoFicha.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.CertificadoVacunacion.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Cliente.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Clientes.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Ficha.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fichas.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Fondo.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.inicio.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Productos.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Stock.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.Vencimientos.resources
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\Sofia\Documents\Backup Sistema de Veterinaria\App Veterrinaria\Projects\Login\Login\obj\Debug\Login.pdb
